@@ -4,9 +4,9 @@ body {
 }
 
 .hero-section {
-    height: 576px;
+    
     background-color: #F0FFF0;
-    overflow: scroll;
+    
    
 }
 .hero-section-menu {
@@ -28,7 +28,7 @@ body {
     color:black;
 }
 .hero-section-middle {
-    margin-top: 30px;
+    margin-top: 40px;
 }
 .hero-section-middle-content {
     color: #FD511A;
@@ -36,4 +36,95 @@ body {
 }
 .hero-section-middle span {
     color:#21B573;
+}
+.hero-section-middle img {
+    width: 500px;
+}
+.hero-section-middle .btn {
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.card-decks {
+    margin-top: 100px;
+    text-align: center;
+    
+    
+}
+.cards img  {
+    width: 70px;
+    margin-top: 15px;
+
+}
+.cards {
+    text-align: center;
+    margin: 5px;
+}
+.card-first-text
+{
+    margin-top: 20px;
+    font-weight: 900;
+    color: black;
+    margin-right: 20px;
+
+}
+.card-1 {
+    background-color:#F8FFFB; ;
+}
+.card-2 {
+    background-color: whitesmoke;
+}
+.card-decks img {
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.card-shadow {
+    box-shadow: 10px 10px 8px blanchedalmond;
+}
+.info-section {
+    margin-top: 50px;
+    
+    
+}
+.info-section h1 {
+    margin-left: 40%;
+
+}
+
+    
+   
+    
+
+.end-part img {
+    width: 30px;
+    
+}
+    
+
+.end-part {
+    margin-top: 30px;
+}
+.img-part2 {
+    margin-left: 20px;
+}
+.test-section {
+    margin-top: 50px;
+}
+.test-section img {
+    width: 100px;
+}
+.test-section p{
+    margin-top: 20px;
+    color:black;
+}
+.footer-section {
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 20px;
+    padding-top: 30px;
+    
+}
+small {
+    margin-left: 40%;
 }
